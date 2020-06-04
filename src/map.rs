@@ -891,7 +891,7 @@ lazy_static! {
         m.insert(110, "Insert");
         m.insert(111, "Delete");
         m.insert(112, "Macro");
-        m.insert(113, "Mute");
+        m.insert(113, "VolumeMute");
         m.insert(114, "VolumeDown");
         m.insert(115, "VolumeUp");
         m.insert(116, "Power");
